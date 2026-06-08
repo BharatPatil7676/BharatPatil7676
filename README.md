@@ -63,6 +63,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wokwi](https://img.shields.io/badge/Wokwi-2EA44F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA&logoColor=white)
 
 </div>
 
@@ -111,13 +112,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BharatPatil7676&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF6B6B&icon_color=FFD700&text_color=ffffff&bg_color=0d1117" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharatPatil7676&layout=compact&theme=tokyonight&hide_border=true&title_color=FF6B6B&text_color=ffffff&bg_color=0d1117" height="170"/>
+<img src="https://streak-stats.demolab.com?user=BharatPatil7676&theme=tokyonight&hide_border=true&ring=FF6B6B&fire=FFD700&currStreakLabel=FF6B6B&background=0d1117" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=BharatPatil7676&theme=tokyonight&hide_border=true&ring=FF6B6B&fire=FFD700&currStreakLabel=FF6B6B&background=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BharatPatil7676&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF6B6B&icon_color=FFD700&text_color=ffffff&bg_color=0d1117" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharatPatil7676&layout=compact&theme=tokyonight&hide_border=true&title_color=FF6B6B&text_color=ffffff&bg_color=0d1117" height="170"/>
 
 </div>
 
