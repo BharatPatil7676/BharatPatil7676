@@ -2,7 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bharat%20Patil&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Undergrad%20%7C%20Embedded%20Systems%20%7C%20Software%20Dev&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=650&lines=👋+Hey!+I'm+Bharat+Patil;⚙️+ECE+2nd+Year+%7C+Embedded+Systems;💻+DSA+in+C%2B%2B+%7C+Python+Explorer;🚀+Building+for+IT+%26+Core+ECE+Roles;🔌+ESP32+%7C+IoT+%7C+Microcontrollers" alt="Typing SVG" />
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/👋%20Hey%20I'm-Bharat%20Patil-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓%202nd%20Year-ECE%20Undergrad-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚙️%20Embedded-Systems%20Dev-00C896?style=for-the-badge" />
+</p>
 
 <br/>
 
@@ -16,37 +22,19 @@
 
 ## 👋 About Me
 
-<table>
-<tr>
-<td width="55%">
+<div align="center">
 
-```python
-class BharatPatil:
-    def __init__(self):
-        self.name       = "Bharat Patil"
-        self.degree     = "B.E. — ECE"
-        self.year       = "2nd Year Undergrad"
-        self.languages  = ["C++", "Python", "Embedded C"]
-        self.hardware   = ["ESP32", "Arduino", "IoT Sensors"]
-        self.learning   = ["DSA", "RTOS", "System Design"]
-        self.open_to    = ["IT Roles", "Core ECE", "Internships"]
-        self.fun_fact   = "I debug hardware & software both! 🔧"
+| 🧑‍💻 | **Bharat Patil** |
+|---|---|
+| 🎓 | B.E. — Electronics & Communication Engineering |
+| 📅 | 2nd Year Undergrad |
+| 💻 | C++ · Python · Embedded C |
+| 🔌 | ESP32 · Arduino · IoT Sensors |
+| 📚 | Learning DSA · RTOS · System Design |
+| 🎯 | Open to IT Roles · Core ECE · Internships |
+| ⚡ | Fun fact: I debug hardware & software both! |
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's connect 🚀")
-
-me = BharatPatil()
-me.say_hi()
-```
-
-</td>
-<td width="45%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharatPatil7676&layout=donut&theme=tokyonight&hide_border=true&title_color=FF6B6B&text_color=ffffff&bg_color=0d1117" />
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -125,7 +113,11 @@ me.say_hi()
 
 <img src="https://github-readme-stats.vercel.app/api?username=BharatPatil7676&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF6B6B&icon_color=FFD700&text_color=ffffff&bg_color=0d1117" height="170"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=BharatPatil7676&theme=tokyonight&hide_border=true&ring=FF6B6B&fire=FFD700&currStreakLabel=FF6B6B&background=0d1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharatPatil7676&layout=compact&theme=tokyonight&hide_border=true&title_color=FF6B6B&text_color=ffffff&bg_color=0d1117" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=BharatPatil7676&theme=tokyonight&hide_border=true&ring=FF6B6B&fire=FFD700&currStreakLabel=FF6B6B&background=0d1117"/>
 
 </div>
 
@@ -137,12 +129,12 @@ me.say_hi()
 
 | 🎯 Goal | 📚 Skill | 📊 Progress |
 |--------|---------|------------|
-| 💼 IT Software Roles | DSA in C++ | `████████░░` 80% |
-| ⚙️ Core ECE Roles | Embedded Systems | `███████░░░` 70% |
-| 🐍 Python Development | Python Basics | `██████░░░░` 60% |
-| 🔌 IoT Projects | ESP32 + Sensors | `███████░░░` 70% |
+| 💼 IT Software Roles | DSA in C++ | `████░░░░░░` 40% |
+| ⚙️ Core ECE Roles | Embedded Systems | `█████░░░░░` 55% |
+| 🐍 Python Development | Python Basics | `███░░░░░░░` 35% |
+| 🔌 IoT Projects | ESP32 + Sensors | `██████░░░░` 60% |
 | 🧩 System Design | Architecture | `████░░░░░░` 40% |
-| ⏱️ RTOS | Real-Time OS | `███░░░░░░░` 30% |
+| ⏱️ RTOS | Real-Time OS | `████░░░░░░` 45% |
 
 </div>
 
@@ -158,8 +150,10 @@ me.say_hi()
 
 <br/>
 
-![Snake](https://raw.githubusercontent.com/BharatPatil7676/BharatPatil7676/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/BharatPatil7676/BharatPatil7676/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
