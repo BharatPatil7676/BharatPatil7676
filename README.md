@@ -116,10 +116,9 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=BharatPatil7676&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF6B6B&icon_color=FFD700&text_color=ffffff&bg_color=0d1117" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BharatPatil7676&theme=tokyonight" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharatPatil7676&layout=compact&theme=tokyonight&hide_border=true&title_color=FF6B6B&text_color=ffffff&bg_color=0d1117" height="170"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BharatPatil7676&theme=tokyonight" height="170"/>
 </div>
 
 ---
