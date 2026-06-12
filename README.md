@@ -83,7 +83,7 @@
 ![Real-Time](https://img.shields.io/badge/Real--Time-FF6B6B?style=flat-square)
 
 - ⚡ Adaptive timing based on traffic density
-- 🚑 Emergency vehicle priority override
+- 
 - 🔁 Real-time embedded control loop
 - ✅ **Completed — June 2026**
 
