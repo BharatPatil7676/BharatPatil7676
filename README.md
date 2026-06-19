@@ -129,7 +129,7 @@
 
 | 🎯 Goal | 📚 Skill | 📊 Progress |
 |--------|---------|------------|
-| 💼 IT Software Roles | DSA in C++ | `████░░░░░░` 40% |
+| 💼 IT Software Roles | DSA in C++ | `████░░░░░░` 30% |
 | ⚙️ Core ECE Roles | Embedded Systems | `█████░░░░░` 55% |
 | 🐍 Python Development | Python Basics | `███░░░░░░░` 35% |
 | 🔌 IoT Projects | ESP32 + Sensors | `██████░░░░` 60% |
